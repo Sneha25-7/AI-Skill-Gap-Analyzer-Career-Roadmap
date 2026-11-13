@@ -1,0 +1,1555 @@
+{
+  "skills": [
+    "AWS",
+    "Airflow",
+    "Algorithms",
+    "Android",
+    "Azure",
+    "Blockchain",
+    "C",
+    "C++",
+    "CI/CD",
+    "CSS",
+    "Cloud Computing",
+    "Communication",
+    "Computer Vision",
+    "Cybersecurity",
+    "DAX",
+    "Data Structures",
+    "Data Visualization",
+    "Deep Learning",
+    "Django",
+    "Docker",
+    "ETL",
+    "Embedded Systems",
+    "Excel",
+    "Figma",
+    "Flask",
+    "Flutter",
+    "Generative AI",
+    "Git",
+    "GitHub",
+    "Google Cloud",
+    "HTML",
+    "Hadoop",
+    "IoT",
+    "Java",
+    "JavaScript",
+    "Jenkins",
+    "Kotlin",
+    "Kubernetes",
+    "LLM",
+    "LangChain",
+    "Linux",
+    "MLOps",
+    "MLflow",
+    "Machine Learning",
+    "MongoDB",
+    "MySQL",
+    "NLP",
+    "Networking",
+    "Node.js",
+    "NumPy",
+    "OOP",
+    "OpenCV",
+    "Pandas",
+    "PostgreSQL",
+    "Power BI",
+    "Power Query",
+    "Prompt Engineering",
+    "Prototyping",
+    "PyTorch",
+    "Python",
+    "RAG",
+    "REST API",
+    "React",
+    "SQL",
+    "Scikit-learn",
+    "Selenium",
+    "Solidity",
+    "Spark",
+    "Spring Boot",
+    "Statistics",
+    "Swift",
+    "Tableau",
+    "TensorFlow",
+    "Terraform",
+    "Testing",
+    "TypeScript",
+    "UI/UX",
+    "User Research",
+    "iOS"
+  ],
+  "roles": [
+    {
+      "title": "AI / Machine Learning Engineer",
+      "category": "AI & ML",
+      "skills": [
+        "Python",
+        "NumPy",
+        "Pandas",
+        "Statistics",
+        "Machine Learning",
+        "Scikit-learn",
+        "Deep Learning",
+        "SQL",
+        "Git",
+        "Docker",
+        "MLOps"
+      ],
+      "description": "Career path focused on practical ai / machine learning engineer skills, portfolio development and industry readiness."
+    },
+    {
+      "title": "Data Scientist",
+      "category": "Data Science",
+      "skills": [
+        "Python",
+        "Pandas",
+        "NumPy",
+        "Statistics",
+        "Machine Learning",
+        "Scikit-learn",
+        "SQL",
+        "Data Visualization",
+        "Git"
+      ],
+      "description": "Career path focused on practical data scientist skills, portfolio development and industry readiness."
+    },
+    {
+      "title": "Data Analyst",
+      "category": "Analytics",
+      "skills": [
+        "Excel",
+        "SQL",
+        "Statistics",
+        "Power BI",
+        "Data Visualization",
+        "Python",
+        "Pandas",
+        "Power Query",
+        "DAX"
+      ],
+      "description": "Career path focused on practical data analyst skills, portfolio development and industry readiness."
+    },
+    {
+      "title": "Data Engineer",
+      "category": "Data Engineering",
+      "skills": [
+        "Python",
+        "SQL",
+        "ETL",
+        "Spark",
+        "Airflow",
+        "Hadoop",
+        "PostgreSQL",
+        "Git",
+        "Docker",
+        "Cloud Computing"
+      ],
+      "description": "Career path focused on practical data engineer skills, portfolio development and industry readiness."
+    },
+    {
+      "title": "Generative AI Developer",
+      "category": "Generative AI",
+      "skills": [
+        "Python",
+        "Generative AI",
+        "LLM",
+        "Prompt Engineering",
+        "LangChain",
+        "RAG",
+        "REST API",
+        "Git",
+        "Docker"
+      ],
+      "description": "Career path focused on practical generative ai developer skills, portfolio development and industry readiness."
+    },
+    {
+      "title": "NLP Engineer",
+      "category": "AI & ML",
+      "skills": [
+        "Python",
+        "NLP",
+        "Machine Learning",
+        "Deep Learning",
+        "PyTorch",
+        "SQL",
+        "Git"
+      ],
+      "description": "Career path focused on practical nlp engineer skills, portfolio development and industry readiness."
+    },
+    {
+      "title": "Computer Vision Engineer",
+      "category": "AI & ML",
+      "skills": [
+        "Python",
+        "Computer Vision",
+        "OpenCV",
+        "Deep Learning",
+        "PyTorch",
+        "TensorFlow",
+        "NumPy",
+        "Git"
+      ],
+      "description": "Career path focused on practical computer vision engineer skills, portfolio development and industry readiness."
+    },
+    {
+      "title": "MLOps Engineer",
+      "category": "AI & Cloud",
+      "skills": [
+        "Python",
+        "Machine Learning",
+        "Docker",
+        "Kubernetes",
+        "Git",
+        "AWS",
+        "Linux",
+        "CI/CD",
+        "MLflow",
+        "MLOps"
+      ],
+      "description": "Career path focused on practical mlops engineer skills, portfolio development and industry readiness."
+    },
+    {
+      "title": "Full Stack Developer",
+      "category": "Software",
+      "skills": [
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "TypeScript",
+        "React",
+        "Node.js",
+        "REST API",
+        "SQL",
+        "MongoDB",
+        "Git"
+      ],
+      "description": "Career path focused on practical full stack developer skills, portfolio development and industry readiness."
+    },
+    {
+      "title": "Frontend Developer",
+      "category": "Software",
+      "skills": [
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "TypeScript",
+        "React",
+        "Git",
+        "GitHub",
+        "UI/UX"
+      ],
+      "description": "Career path focused on practical frontend developer skills, portfolio development and industry readiness."
+    },
+    {
+      "title": "Backend Developer",
+      "category": "Software",
+      "skills": [
+        "Python",
+        "Java",
+        "Node.js",
+        "REST API",
+        "SQL",
+        "PostgreSQL",
+        "MongoDB",
+        "Git",
+        "Docker"
+      ],
+      "description": "Career path focused on practical backend developer skills, portfolio development and industry readiness."
+    },
+    {
+      "title": "Python Developer",
+      "category": "Software",
+      "skills": [
+        "Python",
+        "OOP",
+        "SQL",
+        "Flask",
+        "Django",
+        "REST API",
+        "Git",
+        "Docker"
+      ],
+      "description": "Career path focused on practical python developer skills, portfolio development and industry readiness."
+    },
+    {
+      "title": "Java Developer",
+      "category": "Software",
+      "skills": [
+        "Java",
+        "Data Structures",
+        "Algorithms",
+        "SQL",
+        "Git",
+        "Spring Boot",
+        "REST API"
+      ],
+      "description": "Career path focused on practical java developer skills, portfolio development and industry readiness."
+    },
+    {
+      "title": "Cloud Engineer",
+      "category": "Cloud & DevOps",
+      "skills": [
+        "Linux",
+        "Networking",
+        "AWS",
+        "Azure",
+        "Google Cloud",
+        "Docker",
+        "Kubernetes",
+        "Git",
+        "Cloud Computing"
+      ],
+      "description": "Career path focused on practical cloud engineer skills, portfolio development and industry readiness."
+    },
+    {
+      "title": "DevOps Engineer",
+      "category": "Cloud & DevOps",
+      "skills": [
+        "Linux",
+        "Git",
+        "Docker",
+        "Kubernetes",
+        "AWS",
+        "CI/CD",
+        "Jenkins",
+        "Terraform",
+        "Cloud Computing"
+      ],
+      "description": "Career path focused on practical devops engineer skills, portfolio development and industry readiness."
+    },
+    {
+      "title": "Cybersecurity Analyst",
+      "category": "Cybersecurity",
+      "skills": [
+        "Linux",
+        "Networking",
+        "Cybersecurity",
+        "Python",
+        "SQL",
+        "Cloud Computing",
+        "Git"
+      ],
+      "description": "Career path focused on practical cybersecurity analyst skills, portfolio development and industry readiness."
+    },
+    {
+      "title": "QA Automation Engineer",
+      "category": "Testing",
+      "skills": [
+        "Java",
+        "Python",
+        "Selenium",
+        "Testing",
+        "SQL",
+        "Git",
+        "CI/CD"
+      ],
+      "description": "Career path focused on practical qa automation engineer skills, portfolio development and industry readiness."
+    },
+    {
+      "title": "UI/UX Designer",
+      "category": "Design",
+      "skills": [
+        "Figma",
+        "UI/UX",
+        "User Research",
+        "Prototyping",
+        "HTML",
+        "CSS"
+      ],
+      "description": "Career path focused on practical ui/ux designer skills, portfolio development and industry readiness."
+    },
+    {
+      "title": "Mobile App Developer",
+      "category": "Mobile",
+      "skills": [
+        "Flutter",
+        "Android",
+        "Kotlin",
+        "Java",
+        "iOS",
+        "Swift",
+        "Git",
+        "REST API"
+      ],
+      "description": "Career path focused on practical mobile app developer skills, portfolio development and industry readiness."
+    },
+    {
+      "title": "Blockchain Developer",
+      "category": "Web3",
+      "skills": [
+        "JavaScript",
+        "Python",
+        "Blockchain",
+        "Solidity",
+        "Git",
+        "REST API",
+        "SQL"
+      ],
+      "description": "Career path focused on practical blockchain developer skills, portfolio development and industry readiness."
+    },
+    {
+      "title": "IoT Developer",
+      "category": "IoT",
+      "skills": [
+        "C",
+        "C++",
+        "Python",
+        "IoT",
+        "Embedded Systems",
+        "Networking",
+        "Linux",
+        "Git"
+      ],
+      "description": "Career path focused on practical iot developer skills, portfolio development and industry readiness."
+    },
+    {
+      "title": "Power BI Developer",
+      "category": "Business Intelligence",
+      "skills": [
+        "Power BI",
+        "SQL",
+        "Excel",
+        "Power Query",
+        "DAX",
+        "Data Visualization"
+      ],
+      "description": "Career path focused on practical power bi developer skills, portfolio development and industry readiness."
+    },
+    {
+      "title": "Product Analyst",
+      "category": "Analytics",
+      "skills": [
+        "SQL",
+        "Excel",
+        "Statistics",
+        "Python",
+        "Power BI",
+        "Data Visualization"
+      ],
+      "description": "Career path focused on practical product analyst skills, portfolio development and industry readiness."
+    },
+    {
+      "title": "Business Analyst",
+      "category": "Analytics",
+      "skills": [
+        "Excel",
+        "SQL",
+        "Statistics",
+        "Power BI",
+        "Data Visualization",
+        "Communication"
+      ],
+      "description": "Career path focused on practical business analyst skills, portfolio development and industry readiness."
+    }
+  ],
+  "details": {
+    "AWS": {
+      "level": "Intermediate",
+      "topics": [
+        "AWS fundamentals",
+        "Hands-on AWS",
+        "Industry use cases"
+      ],
+      "project": "Build and publish a portfolio project demonstrating AWS.",
+      "resources": [
+        "Official documentation",
+        "Hands-on labs",
+        "GitHub portfolio"
+      ]
+    },
+    "Airflow": {
+      "level": "Beginner",
+      "topics": [
+        "Airflow fundamentals",
+        "Hands-on Airflow",
+        "Industry use cases"
+      ],
+      "project": "Build and publish a portfolio project demonstrating Airflow.",
+      "resources": [
+        "Official documentation",
+        "Hands-on labs",
+        "GitHub portfolio"
+      ]
+    },
+    "Algorithms": {
+      "level": "Beginner",
+      "topics": [
+        "Algorithms fundamentals",
+        "Hands-on Algorithms",
+        "Industry use cases"
+      ],
+      "project": "Build and publish a portfolio project demonstrating Algorithms.",
+      "resources": [
+        "Official documentation",
+        "Hands-on labs",
+        "GitHub portfolio"
+      ]
+    },
+    "Android": {
+      "level": "Beginner",
+      "topics": [
+        "Android fundamentals",
+        "Hands-on Android",
+        "Industry use cases"
+      ],
+      "project": "Build and publish a portfolio project demonstrating Android.",
+      "resources": [
+        "Official documentation",
+        "Hands-on labs",
+        "GitHub portfolio"
+      ]
+    },
+    "Azure": {
+      "level": "Intermediate",
+      "topics": [
+        "Azure fundamentals",
+        "Hands-on Azure",
+        "Industry use cases"
+      ],
+      "project": "Build and publish a portfolio project demonstrating Azure.",
+      "resources": [
+        "Official documentation",
+        "Hands-on labs",
+        "GitHub portfolio"
+      ]
+    },
+    "Blockchain": {
+      "level": "Advanced",
+      "topics": [
+        "Blockchain fundamentals",
+        "Hands-on Blockchain",
+        "Industry use cases"
+      ],
+      "project": "Build and publish a portfolio project demonstrating Blockchain.",
+      "resources": [
+        "Official documentation",
+        "Hands-on labs",
+        "GitHub portfolio"
+      ]
+    },
+    "C": {
+      "level": "Beginner",
+      "topics": [
+        "C fundamentals",
+        "Hands-on C",
+        "Industry use cases"
+      ],
+      "project": "Build and publish a portfolio project demonstrating C.",
+      "resources": [
+        "Official documentation",
+        "Hands-on labs",
+        "GitHub portfolio"
+      ]
+    },
+    "C++": {
+      "level": "Beginner",
+      "topics": [
+        "C++ fundamentals",
+        "Hands-on C++",
+        "Industry use cases"
+      ],
+      "project": "Build and publish a portfolio project demonstrating C++.",
+      "resources": [
+        "Official documentation",
+        "Hands-on labs",
+        "GitHub portfolio"
+      ]
+    },
+    "CI/CD": {
+      "level": "Beginner",
+      "topics": [
+        "CI/CD fundamentals",
+        "Hands-on CI/CD",
+        "Industry use cases"
+      ],
+      "project": "Build and publish a portfolio project demonstrating CI/CD.",
+      "resources": [
+        "Official documentation",
+        "Hands-on labs",
+        "GitHub portfolio"
+      ]
+    },
+    "CSS": {
+      "level": "Beginner",
+      "topics": [
+        "CSS fundamentals",
+        "Hands-on CSS",
+        "Industry use cases"
+      ],
+      "project": "Build and publish a portfolio project demonstrating CSS.",
+      "resources": [
+        "Official documentation",
+        "Hands-on labs",
+        "GitHub portfolio"
+      ]
+    },
+    "Cloud Computing": {
+      "level": "Beginner",
+      "topics": [
+        "Cloud Computing fundamentals",
+        "Hands-on Cloud Computing",
+        "Industry use cases"
+      ],
+      "project": "Build and publish a portfolio project demonstrating Cloud Computing.",
+      "resources": [
+        "Official documentation",
+        "Hands-on labs",
+        "GitHub portfolio"
+      ]
+    },
+    "Communication": {
+      "level": "Beginner",
+      "topics": [
+        "Communication fundamentals",
+        "Hands-on Communication",
+        "Industry use cases"
+      ],
+      "project": "Build and publish a portfolio project demonstrating Communication.",
+      "resources": [
+        "Official documentation",
+        "Hands-on labs",
+        "GitHub portfolio"
+      ]
+    },
+    "Computer Vision": {
+      "level": "Advanced",
+      "topics": [
+        "Computer Vision fundamentals",
+        "Hands-on Computer Vision",
+        "Industry use cases"
+      ],
+      "project": "Build and publish a portfolio project demonstrating Computer Vision.",
+      "resources": [
+        "Official documentation",
+        "Hands-on labs",
+        "GitHub portfolio"
+      ]
+    },
+    "Cybersecurity": {
+      "level": "Intermediate",
+      "topics": [
+        "Cybersecurity fundamentals",
+        "Hands-on Cybersecurity",
+        "Industry use cases"
+      ],
+      "project": "Build and publish a portfolio project demonstrating Cybersecurity.",
+      "resources": [
+        "Official documentation",
+        "Hands-on labs",
+        "GitHub portfolio"
+      ]
+    },
+    "DAX": {
+      "level": "Beginner",
+      "topics": [
+        "DAX fundamentals",
+        "Hands-on DAX",
+        "Industry use cases"
+      ],
+      "project": "Build and publish a portfolio project demonstrating DAX.",
+      "resources": [
+        "Official documentation",
+        "Hands-on labs",
+        "GitHub portfolio"
+      ]
+    },
+    "Data Structures": {
+      "level": "Beginner",
+      "topics": [
+        "Data Structures fundamentals",
+        "Hands-on Data Structures",
+        "Industry use cases"
+      ],
+      "project": "Build and publish a portfolio project demonstrating Data Structures.",
+      "resources": [
+        "Official documentation",
+        "Hands-on labs",
+        "GitHub portfolio"
+      ]
+    },
+    "Data Visualization": {
+      "level": "Beginner",
+      "topics": [
+        "Data Visualization fundamentals",
+        "Hands-on Data Visualization",
+        "Industry use cases"
+      ],
+      "project": "Build and publish a portfolio project demonstrating Data Visualization.",
+      "resources": [
+        "Official documentation",
+        "Hands-on labs",
+        "GitHub portfolio"
+      ]
+    },
+    "Deep Learning": {
+      "level": "Advanced",
+      "topics": [
+        "Deep Learning fundamentals",
+        "Hands-on Deep Learning",
+        "Industry use cases"
+      ],
+      "project": "Build and publish a portfolio project demonstrating Deep Learning.",
+      "resources": [
+        "Official documentation",
+        "Hands-on labs",
+        "GitHub portfolio"
+      ]
+    },
+    "Django": {
+      "level": "Beginner",
+      "topics": [
+        "Django fundamentals",
+        "Hands-on Django",
+        "Industry use cases"
+      ],
+      "project": "Build and publish a portfolio project demonstrating Django.",
+      "resources": [
+        "Official documentation",
+        "Hands-on labs",
+        "GitHub portfolio"
+      ]
+    },
+    "Docker": {
+      "level": "Intermediate",
+      "topics": [
+        "Docker fundamentals",
+        "Hands-on Docker",
+        "Industry use cases"
+      ],
+      "project": "Build and publish a portfolio project demonstrating Docker.",
+      "resources": [
+        "Official documentation",
+        "Hands-on labs",
+        "GitHub portfolio"
+      ]
+    },
+    "ETL": {
+      "level": "Beginner",
+      "topics": [
+        "ETL fundamentals",
+        "Hands-on ETL",
+        "Industry use cases"
+      ],
+      "project": "Build and publish a portfolio project demonstrating ETL.",
+      "resources": [
+        "Official documentation",
+        "Hands-on labs",
+        "GitHub portfolio"
+      ]
+    },
+    "Embedded Systems": {
+      "level": "Beginner",
+      "topics": [
+        "Embedded Systems fundamentals",
+        "Hands-on Embedded Systems",
+        "Industry use cases"
+      ],
+      "project": "Build and publish a portfolio project demonstrating Embedded Systems.",
+      "resources": [
+        "Official documentation",
+        "Hands-on labs",
+        "GitHub portfolio"
+      ]
+    },
+    "Excel": {
+      "level": "Beginner",
+      "topics": [
+        "Excel fundamentals",
+        "Hands-on Excel",
+        "Industry use cases"
+      ],
+      "project": "Build and publish a portfolio project demonstrating Excel.",
+      "resources": [
+        "Official documentation",
+        "Hands-on labs",
+        "GitHub portfolio"
+      ]
+    },
+    "Figma": {
+      "level": "Beginner",
+      "topics": [
+        "Figma fundamentals",
+        "Hands-on Figma",
+        "Industry use cases"
+      ],
+      "project": "Build and publish a portfolio project demonstrating Figma.",
+      "resources": [
+        "Official documentation",
+        "Hands-on labs",
+        "GitHub portfolio"
+      ]
+    },
+    "Flask": {
+      "level": "Beginner",
+      "topics": [
+        "Flask fundamentals",
+        "Hands-on Flask",
+        "Industry use cases"
+      ],
+      "project": "Build and publish a portfolio project demonstrating Flask.",
+      "resources": [
+        "Official documentation",
+        "Hands-on labs",
+        "GitHub portfolio"
+      ]
+    },
+    "Flutter": {
+      "level": "Beginner",
+      "topics": [
+        "Flutter fundamentals",
+        "Hands-on Flutter",
+        "Industry use cases"
+      ],
+      "project": "Build and publish a portfolio project demonstrating Flutter.",
+      "resources": [
+        "Official documentation",
+        "Hands-on labs",
+        "GitHub portfolio"
+      ]
+    },
+    "Generative AI": {
+      "level": "Intermediate",
+      "topics": [
+        "Generative AI fundamentals",
+        "Hands-on Generative AI",
+        "Industry use cases"
+      ],
+      "project": "Build and publish a portfolio project demonstrating Generative AI.",
+      "resources": [
+        "Official documentation",
+        "Hands-on labs",
+        "GitHub portfolio"
+      ]
+    },
+    "Git": {
+      "level": "Beginner",
+      "topics": [
+        "Git fundamentals",
+        "Hands-on Git",
+        "Industry use cases"
+      ],
+      "project": "Build and publish a portfolio project demonstrating Git.",
+      "resources": [
+        "Official documentation",
+        "Hands-on labs",
+        "GitHub portfolio"
+      ]
+    },
+    "GitHub": {
+      "level": "Beginner",
+      "topics": [
+        "GitHub fundamentals",
+        "Hands-on GitHub",
+        "Industry use cases"
+      ],
+      "project": "Build and publish a portfolio project demonstrating GitHub.",
+      "resources": [
+        "Official documentation",
+        "Hands-on labs",
+        "GitHub portfolio"
+      ]
+    },
+    "Google Cloud": {
+      "level": "Beginner",
+      "topics": [
+        "Google Cloud fundamentals",
+        "Hands-on Google Cloud",
+        "Industry use cases"
+      ],
+      "project": "Build and publish a portfolio project demonstrating Google Cloud.",
+      "resources": [
+        "Official documentation",
+        "Hands-on labs",
+        "GitHub portfolio"
+      ]
+    },
+    "HTML": {
+      "level": "Beginner",
+      "topics": [
+        "HTML fundamentals",
+        "Hands-on HTML",
+        "Industry use cases"
+      ],
+      "project": "Build and publish a portfolio project demonstrating HTML.",
+      "resources": [
+        "Official documentation",
+        "Hands-on labs",
+        "GitHub portfolio"
+      ]
+    },
+    "Hadoop": {
+      "level": "Advanced",
+      "topics": [
+        "Hadoop fundamentals",
+        "Hands-on Hadoop",
+        "Industry use cases"
+      ],
+      "project": "Build and publish a portfolio project demonstrating Hadoop.",
+      "resources": [
+        "Official documentation",
+        "Hands-on labs",
+        "GitHub portfolio"
+      ]
+    },
+    "IoT": {
+      "level": "Beginner",
+      "topics": [
+        "IoT fundamentals",
+        "Hands-on IoT",
+        "Industry use cases"
+      ],
+      "project": "Build and publish a portfolio project demonstrating IoT.",
+      "resources": [
+        "Official documentation",
+        "Hands-on labs",
+        "GitHub portfolio"
+      ]
+    },
+    "Java": {
+      "level": "Beginner",
+      "topics": [
+        "Java fundamentals",
+        "Hands-on Java",
+        "Industry use cases"
+      ],
+      "project": "Build and publish a portfolio project demonstrating Java.",
+      "resources": [
+        "Official documentation",
+        "Hands-on labs",
+        "GitHub portfolio"
+      ]
+    },
+    "JavaScript": {
+      "level": "Beginner",
+      "topics": [
+        "JavaScript fundamentals",
+        "Hands-on JavaScript",
+        "Industry use cases"
+      ],
+      "project": "Build and publish a portfolio project demonstrating JavaScript.",
+      "resources": [
+        "Official documentation",
+        "Hands-on labs",
+        "GitHub portfolio"
+      ]
+    },
+    "Jenkins": {
+      "level": "Beginner",
+      "topics": [
+        "Jenkins fundamentals",
+        "Hands-on Jenkins",
+        "Industry use cases"
+      ],
+      "project": "Build and publish a portfolio project demonstrating Jenkins.",
+      "resources": [
+        "Official documentation",
+        "Hands-on labs",
+        "GitHub portfolio"
+      ]
+    },
+    "Kotlin": {
+      "level": "Beginner",
+      "topics": [
+        "Kotlin fundamentals",
+        "Hands-on Kotlin",
+        "Industry use cases"
+      ],
+      "project": "Build and publish a portfolio project demonstrating Kotlin.",
+      "resources": [
+        "Official documentation",
+        "Hands-on labs",
+        "GitHub portfolio"
+      ]
+    },
+    "Kubernetes": {
+      "level": "Advanced",
+      "topics": [
+        "Kubernetes fundamentals",
+        "Hands-on Kubernetes",
+        "Industry use cases"
+      ],
+      "project": "Build and publish a portfolio project demonstrating Kubernetes.",
+      "resources": [
+        "Official documentation",
+        "Hands-on labs",
+        "GitHub portfolio"
+      ]
+    },
+    "LLM": {
+      "level": "Intermediate",
+      "topics": [
+        "LLM fundamentals",
+        "Hands-on LLM",
+        "Industry use cases"
+      ],
+      "project": "Build and publish a portfolio project demonstrating LLM.",
+      "resources": [
+        "Official documentation",
+        "Hands-on labs",
+        "GitHub portfolio"
+      ]
+    },
+    "LangChain": {
+      "level": "Intermediate",
+      "topics": [
+        "LangChain fundamentals",
+        "Hands-on LangChain",
+        "Industry use cases"
+      ],
+      "project": "Build and publish a portfolio project demonstrating LangChain.",
+      "resources": [
+        "Official documentation",
+        "Hands-on labs",
+        "GitHub portfolio"
+      ]
+    },
+    "Linux": {
+      "level": "Beginner",
+      "topics": [
+        "Linux fundamentals",
+        "Hands-on Linux",
+        "Industry use cases"
+      ],
+      "project": "Build and publish a portfolio project demonstrating Linux.",
+      "resources": [
+        "Official documentation",
+        "Hands-on labs",
+        "GitHub portfolio"
+      ]
+    },
+    "MLOps": {
+      "level": "Advanced",
+      "topics": [
+        "MLOps fundamentals",
+        "Hands-on MLOps",
+        "Industry use cases"
+      ],
+      "project": "Build and publish a portfolio project demonstrating MLOps.",
+      "resources": [
+        "Official documentation",
+        "Hands-on labs",
+        "GitHub portfolio"
+      ]
+    },
+    "MLflow": {
+      "level": "Beginner",
+      "topics": [
+        "MLflow fundamentals",
+        "Hands-on MLflow",
+        "Industry use cases"
+      ],
+      "project": "Build and publish a portfolio project demonstrating MLflow.",
+      "resources": [
+        "Official documentation",
+        "Hands-on labs",
+        "GitHub portfolio"
+      ]
+    },
+    "Machine Learning": {
+      "level": "Intermediate",
+      "topics": [
+        "Machine Learning fundamentals",
+        "Hands-on Machine Learning",
+        "Industry use cases"
+      ],
+      "project": "Build and publish a portfolio project demonstrating Machine Learning.",
+      "resources": [
+        "Official documentation",
+        "Hands-on labs",
+        "GitHub portfolio"
+      ]
+    },
+    "MongoDB": {
+      "level": "Beginner",
+      "topics": [
+        "MongoDB fundamentals",
+        "Hands-on MongoDB",
+        "Industry use cases"
+      ],
+      "project": "Build and publish a portfolio project demonstrating MongoDB.",
+      "resources": [
+        "Official documentation",
+        "Hands-on labs",
+        "GitHub portfolio"
+      ]
+    },
+    "MySQL": {
+      "level": "Beginner",
+      "topics": [
+        "MySQL fundamentals",
+        "Hands-on MySQL",
+        "Industry use cases"
+      ],
+      "project": "Build and publish a portfolio project demonstrating MySQL.",
+      "resources": [
+        "Official documentation",
+        "Hands-on labs",
+        "GitHub portfolio"
+      ]
+    },
+    "NLP": {
+      "level": "Advanced",
+      "topics": [
+        "NLP fundamentals",
+        "Hands-on NLP",
+        "Industry use cases"
+      ],
+      "project": "Build and publish a portfolio project demonstrating NLP.",
+      "resources": [
+        "Official documentation",
+        "Hands-on labs",
+        "GitHub portfolio"
+      ]
+    },
+    "Networking": {
+      "level": "Beginner",
+      "topics": [
+        "Networking fundamentals",
+        "Hands-on Networking",
+        "Industry use cases"
+      ],
+      "project": "Build and publish a portfolio project demonstrating Networking.",
+      "resources": [
+        "Official documentation",
+        "Hands-on labs",
+        "GitHub portfolio"
+      ]
+    },
+    "Node.js": {
+      "level": "Intermediate",
+      "topics": [
+        "Node.js fundamentals",
+        "Hands-on Node.js",
+        "Industry use cases"
+      ],
+      "project": "Build and publish a portfolio project demonstrating Node.js.",
+      "resources": [
+        "Official documentation",
+        "Hands-on labs",
+        "GitHub portfolio"
+      ]
+    },
+    "NumPy": {
+      "level": "Beginner",
+      "topics": [
+        "NumPy fundamentals",
+        "Hands-on NumPy",
+        "Industry use cases"
+      ],
+      "project": "Build and publish a portfolio project demonstrating NumPy.",
+      "resources": [
+        "Official documentation",
+        "Hands-on labs",
+        "GitHub portfolio"
+      ]
+    },
+    "OOP": {
+      "level": "Beginner",
+      "topics": [
+        "OOP fundamentals",
+        "Hands-on OOP",
+        "Industry use cases"
+      ],
+      "project": "Build and publish a portfolio project demonstrating OOP.",
+      "resources": [
+        "Official documentation",
+        "Hands-on labs",
+        "GitHub portfolio"
+      ]
+    },
+    "OpenCV": {
+      "level": "Beginner",
+      "topics": [
+        "OpenCV fundamentals",
+        "Hands-on OpenCV",
+        "Industry use cases"
+      ],
+      "project": "Build and publish a portfolio project demonstrating OpenCV.",
+      "resources": [
+        "Official documentation",
+        "Hands-on labs",
+        "GitHub portfolio"
+      ]
+    },
+    "Pandas": {
+      "level": "Beginner",
+      "topics": [
+        "Pandas fundamentals",
+        "Hands-on Pandas",
+        "Industry use cases"
+      ],
+      "project": "Build and publish a portfolio project demonstrating Pandas.",
+      "resources": [
+        "Official documentation",
+        "Hands-on labs",
+        "GitHub portfolio"
+      ]
+    },
+    "PostgreSQL": {
+      "level": "Beginner",
+      "topics": [
+        "PostgreSQL fundamentals",
+        "Hands-on PostgreSQL",
+        "Industry use cases"
+      ],
+      "project": "Build and publish a portfolio project demonstrating PostgreSQL.",
+      "resources": [
+        "Official documentation",
+        "Hands-on labs",
+        "GitHub portfolio"
+      ]
+    },
+    "Power BI": {
+      "level": "Intermediate",
+      "topics": [
+        "Power BI fundamentals",
+        "Hands-on Power BI",
+        "Industry use cases"
+      ],
+      "project": "Build and publish a portfolio project demonstrating Power BI.",
+      "resources": [
+        "Official documentation",
+        "Hands-on labs",
+        "GitHub portfolio"
+      ]
+    },
+    "Power Query": {
+      "level": "Beginner",
+      "topics": [
+        "Power Query fundamentals",
+        "Hands-on Power Query",
+        "Industry use cases"
+      ],
+      "project": "Build and publish a portfolio project demonstrating Power Query.",
+      "resources": [
+        "Official documentation",
+        "Hands-on labs",
+        "GitHub portfolio"
+      ]
+    },
+    "Prompt Engineering": {
+      "level": "Beginner",
+      "topics": [
+        "Prompt Engineering fundamentals",
+        "Hands-on Prompt Engineering",
+        "Industry use cases"
+      ],
+      "project": "Build and publish a portfolio project demonstrating Prompt Engineering.",
+      "resources": [
+        "Official documentation",
+        "Hands-on labs",
+        "GitHub portfolio"
+      ]
+    },
+    "Prototyping": {
+      "level": "Beginner",
+      "topics": [
+        "Prototyping fundamentals",
+        "Hands-on Prototyping",
+        "Industry use cases"
+      ],
+      "project": "Build and publish a portfolio project demonstrating Prototyping.",
+      "resources": [
+        "Official documentation",
+        "Hands-on labs",
+        "GitHub portfolio"
+      ]
+    },
+    "PyTorch": {
+      "level": "Advanced",
+      "topics": [
+        "PyTorch fundamentals",
+        "Hands-on PyTorch",
+        "Industry use cases"
+      ],
+      "project": "Build and publish a portfolio project demonstrating PyTorch.",
+      "resources": [
+        "Official documentation",
+        "Hands-on labs",
+        "GitHub portfolio"
+      ]
+    },
+    "Python": {
+      "level": "Beginner",
+      "topics": [
+        "Python fundamentals",
+        "Hands-on Python",
+        "Industry use cases"
+      ],
+      "project": "Build and publish a portfolio project demonstrating Python.",
+      "resources": [
+        "Official documentation",
+        "Hands-on labs",
+        "GitHub portfolio"
+      ]
+    },
+    "RAG": {
+      "level": "Advanced",
+      "topics": [
+        "RAG fundamentals",
+        "Hands-on RAG",
+        "Industry use cases"
+      ],
+      "project": "Build and publish a portfolio project demonstrating RAG.",
+      "resources": [
+        "Official documentation",
+        "Hands-on labs",
+        "GitHub portfolio"
+      ]
+    },
+    "REST API": {
+      "level": "Intermediate",
+      "topics": [
+        "REST API fundamentals",
+        "Hands-on REST API",
+        "Industry use cases"
+      ],
+      "project": "Build and publish a portfolio project demonstrating REST API.",
+      "resources": [
+        "Official documentation",
+        "Hands-on labs",
+        "GitHub portfolio"
+      ]
+    },
+    "React": {
+      "level": "Intermediate",
+      "topics": [
+        "React fundamentals",
+        "Hands-on React",
+        "Industry use cases"
+      ],
+      "project": "Build and publish a portfolio project demonstrating React.",
+      "resources": [
+        "Official documentation",
+        "Hands-on labs",
+        "GitHub portfolio"
+      ]
+    },
+    "SQL": {
+      "level": "Beginner",
+      "topics": [
+        "SQL fundamentals",
+        "Hands-on SQL",
+        "Industry use cases"
+      ],
+      "project": "Build and publish a portfolio project demonstrating SQL.",
+      "resources": [
+        "Official documentation",
+        "Hands-on labs",
+        "GitHub portfolio"
+      ]
+    },
+    "Scikit-learn": {
+      "level": "Intermediate",
+      "topics": [
+        "Scikit-learn fundamentals",
+        "Hands-on Scikit-learn",
+        "Industry use cases"
+      ],
+      "project": "Build and publish a portfolio project demonstrating Scikit-learn.",
+      "resources": [
+        "Official documentation",
+        "Hands-on labs",
+        "GitHub portfolio"
+      ]
+    },
+    "Selenium": {
+      "level": "Intermediate",
+      "topics": [
+        "Selenium fundamentals",
+        "Hands-on Selenium",
+        "Industry use cases"
+      ],
+      "project": "Build and publish a portfolio project demonstrating Selenium.",
+      "resources": [
+        "Official documentation",
+        "Hands-on labs",
+        "GitHub portfolio"
+      ]
+    },
+    "Solidity": {
+      "level": "Advanced",
+      "topics": [
+        "Solidity fundamentals",
+        "Hands-on Solidity",
+        "Industry use cases"
+      ],
+      "project": "Build and publish a portfolio project demonstrating Solidity.",
+      "resources": [
+        "Official documentation",
+        "Hands-on labs",
+        "GitHub portfolio"
+      ]
+    },
+    "Spark": {
+      "level": "Advanced",
+      "topics": [
+        "Spark fundamentals",
+        "Hands-on Spark",
+        "Industry use cases"
+      ],
+      "project": "Build and publish a portfolio project demonstrating Spark.",
+      "resources": [
+        "Official documentation",
+        "Hands-on labs",
+        "GitHub portfolio"
+      ]
+    },
+    "Spring Boot": {
+      "level": "Beginner",
+      "topics": [
+        "Spring Boot fundamentals",
+        "Hands-on Spring Boot",
+        "Industry use cases"
+      ],
+      "project": "Build and publish a portfolio project demonstrating Spring Boot.",
+      "resources": [
+        "Official documentation",
+        "Hands-on labs",
+        "GitHub portfolio"
+      ]
+    },
+    "Statistics": {
+      "level": "Beginner",
+      "topics": [
+        "Statistics fundamentals",
+        "Hands-on Statistics",
+        "Industry use cases"
+      ],
+      "project": "Build and publish a portfolio project demonstrating Statistics.",
+      "resources": [
+        "Official documentation",
+        "Hands-on labs",
+        "GitHub portfolio"
+      ]
+    },
+    "Swift": {
+      "level": "Beginner",
+      "topics": [
+        "Swift fundamentals",
+        "Hands-on Swift",
+        "Industry use cases"
+      ],
+      "project": "Build and publish a portfolio project demonstrating Swift.",
+      "resources": [
+        "Official documentation",
+        "Hands-on labs",
+        "GitHub portfolio"
+      ]
+    },
+    "Tableau": {
+      "level": "Beginner",
+      "topics": [
+        "Tableau fundamentals",
+        "Hands-on Tableau",
+        "Industry use cases"
+      ],
+      "project": "Build and publish a portfolio project demonstrating Tableau.",
+      "resources": [
+        "Official documentation",
+        "Hands-on labs",
+        "GitHub portfolio"
+      ]
+    },
+    "TensorFlow": {
+      "level": "Advanced",
+      "topics": [
+        "TensorFlow fundamentals",
+        "Hands-on TensorFlow",
+        "Industry use cases"
+      ],
+      "project": "Build and publish a portfolio project demonstrating TensorFlow.",
+      "resources": [
+        "Official documentation",
+        "Hands-on labs",
+        "GitHub portfolio"
+      ]
+    },
+    "Terraform": {
+      "level": "Advanced",
+      "topics": [
+        "Terraform fundamentals",
+        "Hands-on Terraform",
+        "Industry use cases"
+      ],
+      "project": "Build and publish a portfolio project demonstrating Terraform.",
+      "resources": [
+        "Official documentation",
+        "Hands-on labs",
+        "GitHub portfolio"
+      ]
+    },
+    "Testing": {
+      "level": "Beginner",
+      "topics": [
+        "Testing fundamentals",
+        "Hands-on Testing",
+        "Industry use cases"
+      ],
+      "project": "Build and publish a portfolio project demonstrating Testing.",
+      "resources": [
+        "Official documentation",
+        "Hands-on labs",
+        "GitHub portfolio"
+      ]
+    },
+    "TypeScript": {
+      "level": "Beginner",
+      "topics": [
+        "TypeScript fundamentals",
+        "Hands-on TypeScript",
+        "Industry use cases"
+      ],
+      "project": "Build and publish a portfolio project demonstrating TypeScript.",
+      "resources": [
+        "Official documentation",
+        "Hands-on labs",
+        "GitHub portfolio"
+      ]
+    },
+    "UI/UX": {
+      "level": "Beginner",
+      "topics": [
+        "UI/UX fundamentals",
+        "Hands-on UI/UX",
+        "Industry use cases"
+      ],
+      "project": "Build and publish a portfolio project demonstrating UI/UX.",
+      "resources": [
+        "Official documentation",
+        "Hands-on labs",
+        "GitHub portfolio"
+      ]
+    },
+    "User Research": {
+      "level": "Beginner",
+      "topics": [
+        "User Research fundamentals",
+        "Hands-on User Research",
+        "Industry use cases"
+      ],
+      "project": "Build and publish a portfolio project demonstrating User Research.",
+      "resources": [
+        "Official documentation",
+        "Hands-on labs",
+        "GitHub portfolio"
+      ]
+    },
+    "iOS": {
+      "level": "Beginner",
+      "topics": [
+        "iOS fundamentals",
+        "Hands-on iOS",
+        "Industry use cases"
+      ],
+      "project": "Build and publish a portfolio project demonstrating iOS.",
+      "resources": [
+        "Official documentation",
+        "Hands-on labs",
+        "GitHub portfolio"
+      ]
+    }
+  }
+}
